@@ -1,8 +1,8 @@
 # Student Performance Prediction – IBM PBEL 2025
 
-**Submitted by:** Malyadip  
-**Roll No:** [Enter Your Roll Number]  
-**Batch:** [Enter Your Batch]  
+**Submitted by:** Malyadip Ghosh
+**Roll No:** 231001001416  
+**Batch:** BCS3E  
 
 **GitHub:** https://github.com/malyadip01/Student-Performance-Prediction  
 
